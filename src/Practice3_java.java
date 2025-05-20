@@ -6,5 +6,6 @@ public class Practice3_java {
         int result=a+b;
 
         System.out.println(result);
+        System.out.println(result);
     }
 }
