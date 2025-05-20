@@ -7,5 +7,6 @@ public class Practice3_java {
 
         System.out.println(result);
         System.out.println(result);
+        System.out.println(result);
     }
 }
